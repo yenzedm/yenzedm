@@ -8,4 +8,4 @@ print("Hello there!")
 
 ---
 
-## :fire: My Stats :
+## My Stats:
