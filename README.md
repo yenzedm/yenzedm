@@ -8,4 +8,4 @@ print("Hello there!")
 
 ---
 
-### :man_technologist: About Me:
+### About Me
