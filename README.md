@@ -5,7 +5,3 @@
 ```python
 print("Hello there!")
 ```
-
----
-
-### About Me
