@@ -28,12 +28,11 @@ Curious about systems, focused on quality, and always adapting to new challenges
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" alt="Grafana" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/960px-Zabbix_logo.svg.png" alt="Zabbix" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvMH7C0Ri8eGgyKmz-7QV-Jt2BPUPxeUwfA&s" alt="Zabbix" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="PosgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
 
@@ -47,6 +46,3 @@ Curious about systems, focused on quality, and always adapting to new challenges
 ---
 
 > “Strive not to be a success, but rather to be of value.” — Albert Einstein
-
-
-
