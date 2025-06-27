@@ -40,8 +40,10 @@ Curious about systems, focused on quality, and always adapting to new challenges
 
 ## 🔗 Where to Find Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?&logo=telegram&logoColor=white)](https://t.me/yenze_DM)
-[![Email](https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white)](mailto:dmitrij.eremeev.99@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?&logo=telegram&logoColor=white)]
+https://t.me/yenze_DM
+[![Email](https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white)]
+dmitrij.eremeev.99@gmail.com
 
 ---
 
